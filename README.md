@@ -1,6 +1,6 @@
 Flight Deals
-video Demo: 
-Description : "https://youtu.be/qXSGL9s-Aro"
+video Demo: "https://youtu.be/qXSGL9s-Aro"
+Description : 
  
 This project is a Python based program that gives the best Flight deals to the user by notifying the user via sms to his/her phone.The purpose of this building this project was because, I found
 that its really time wasting to get the best flight deals for a particular location. But with this program all the user has to do is to insert IATA code location of your destination and the program 
